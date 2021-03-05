@@ -8,7 +8,8 @@ div.Presentacion {
   }
   
   div.Presentacion img.izquierda {
+    display:block;
+    margin:auto;
     float: center;
-    margin-right: 15px;
-    width: 270px;
+    width: 500px;
   }
