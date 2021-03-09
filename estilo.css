@@ -26,11 +26,34 @@ div.Presentacion {
     background-color:  rgb(65, 65, 206);
     color: #fff;
     padding: 15px;
+
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+  }
+
+  div.Trailer {
+
+    float: center;
+    width: 70%;
+    margin: 20px auto;
+    background-color:  rgb(65, 65, 206);
+    color: #fff;
+    padding: 15px;
     
     border-top-style: solid;
     border-right-style: solid;
     border-bottom-style: solid;
     border-left-style: solid;
+  }
+
+  div.Trailer iframe.video{
+
+    display:block;
+    margin:auto;
+    float: center;
+    width: 550px;
   }
 
   body{
