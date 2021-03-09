@@ -2,9 +2,14 @@ div.Presentacion {
     float: center;
     width: 70%;
     margin: 20px auto;
-    background-color: #449;
+    background-color:  rgb(65, 65, 206);
     color: #fff;
     padding: 15px;
+
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
   }
   
   div.Presentacion img.izquierda {
@@ -18,7 +23,18 @@ div.Presentacion {
     float: center;
     width: 70%;
     margin: 20px auto;
-    background-color: #449;
+    background-color:  rgb(65, 65, 206);
     color: #fff;
     padding: 15px;
+    
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+  }
+
+  body{
+
+background-color: rgb(65, 65, 206);
+
   }
