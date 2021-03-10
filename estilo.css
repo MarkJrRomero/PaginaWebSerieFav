@@ -56,6 +56,33 @@ div.Presentacion {
     width: 550px;
   }
 
+  div.temporadas {
+
+    float: center;
+    width: 70%;
+    margin: 20px auto;
+    background-color:  rgb(65, 65, 206);
+    color: #fff;
+    padding: 15px;
+    
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+
+  }
+
+  div.temporadas table.tabla {
+
+    color: #fff;
+    width: 100%;
+    margin: 15px;
+    padding: 15px;
+
+    
+  }
+
+
   body{
 
 background-color: rgb(65, 65, 206);
